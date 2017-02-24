@@ -1,5 +1,0 @@
-[0m[[0minfo[0m] [0m[32mSequenceTest:[0m[0m
-[0m[[0minfo[0m] [0m[32m- should produce `Seq.empty` output for `Seq.empty` input[0m[0m
-[0m[[0minfo[0m] [0m[32m- should produce `Seq(1)` output for `Seq(0)` input[0m[0m
-[0m[[0minfo[0m] [0m[32m- should produce `Seq(1, 2, 4)` output for `Seq(1, 2, 3)` input[0m[0m
-[0m[[0minfo[0m] [0m[32m- should produce `Seq(1, 0, 0, 0)` output for `Seq(9, 9, 9)` input[0m[0m
