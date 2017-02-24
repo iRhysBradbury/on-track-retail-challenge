@@ -1,0 +1,11 @@
+test
+tcompile
+compile
+test
+compile
+test
+reload
+trest
+test
+exity
+exit

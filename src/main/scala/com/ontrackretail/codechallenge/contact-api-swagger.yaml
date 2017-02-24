@@ -1,0 +1,121 @@
+#This file is a representation of the API.
+#I made this with a swagger editor. There's a YAML error which I'm ignoring for now.
+#This is a representation of the service.
+swagger: '2.0'
+info:
+  title: Address Book API
+  description: Address book API, manage your contacts
+  version: "1.0.0"
+host: api.address-book.ontrackretail.com
+schemes:
+  - https
+basePath: /v1
+produces:
+  - application/json
+paths:
+  /contacts:
+    get:
+      summary: Get all Contacts.
+      description: The Contacts endpoint returns all Contacts in the Address Book.
+      tags:
+        - Contacts
+      responses:
+        200:
+          description: An array of Contacts
+          schema:
+            type: array
+            items:
+              $ref: '#/definitions/Contact'
+        default:
+          description: Unexpected error
+          schema:
+            $ref: '#/definitions/Error'
+  /contact:
+    post:
+      consumes: application/json
+      summary: Post a new Contact.
+      description: Create a new Contact entry.
+      parameters:
+        - name: upsert
+          in: query
+          description: If upsert is set to 'true' then the api will update documents with the same contactId.
+          required: true
+          type: boolean
+          format: string
+      tags:
+        - Contacts
+      responses:
+        200:
+          description: Operation successful.
+        default:
+          description: Unexpected error.
+          schema:
+            $ref: '#/definitions/Error'
+  /contact/{customerId}:
+    post:
+      consumes: application/json
+      summary: Get a specific Contact by contactId.
+      description: Create a new Contact entry.
+      responses:
+        200:
+          description: The specific Contact
+          schema:
+            type: object
+            items:
+              $ref: '#/definitions/Contact'
+        404:
+          description: The Contact for the specified contactId doesn't exist.
+        default:
+          description: Unexpected error
+          schema:
+            $ref: '#/definitions/Error'
+  /contact:
+    get:
+      consumes: application/json
+      summary: Get an array of Contact search results.
+      description: A free text search on contacts.
+        parameters:
+          - name: q
+            in: query
+            description: a free text search.
+            required: false
+            type: boolean
+            format: string
+      responses:
+        200:
+          description: The specific Contact.
+          schema:
+            type: array
+            items:
+              $ref: '#/definitions/Contact'
+        404:
+          description: The Contact for the specified contactId doesn't exist.
+definitions:
+  Contact:
+    type: object
+    properties:
+      contactId:
+        type: string
+        description: Unique identifier representing a Contact.
+      firstName:
+        type: string
+        description: First name of the Contact.
+      lastName:
+        type: string
+        description: Last name of Contact.
+      mobileNumber:
+        type: string
+        description: The mobile number of the Contact.
+      email:
+        type: string
+        description: The email address of the Contact.
+  Error:
+    type: object
+    properties:
+      code:
+        type: integer
+        format: int32
+      message:
+        type: string
+      fields:
+        type: string
