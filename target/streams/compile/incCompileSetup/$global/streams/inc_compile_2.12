@@ -1,0 +1,238 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/rhysbradbury/projects/on-track-retail-code-challenge/target/scala-2.12/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.12.1
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+6 items
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Futures.scala -> /Users/rhysbradbury/projects/on-track-retail-code-challenge/target/scala-2.12/classes/com/ontrackretail/codechallenge/Futures$.class
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Futures.scala -> /Users/rhysbradbury/projects/on-track-retail-code-challenge/target/scala-2.12/classes/com/ontrackretail/codechallenge/Futures.class
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Options.scala -> /Users/rhysbradbury/projects/on-track-retail-code-challenge/target/scala-2.12/classes/com/ontrackretail/codechallenge/Options$.class
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Options.scala -> /Users/rhysbradbury/projects/on-track-retail-code-challenge/target/scala-2.12/classes/com/ontrackretail/codechallenge/Options.class
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Sequence.scala -> /Users/rhysbradbury/projects/on-track-retail-code-challenge/target/scala-2.12/classes/com/ontrackretail/codechallenge/Sequence$.class
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Sequence.scala -> /Users/rhysbradbury/projects/on-track-retail-code-challenge/target/scala-2.12/classes/com/ontrackretail/codechallenge/Sequence.class
+binary dependencies:
+6 items
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Futures.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/rt.jar
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Futures.scala -> /Users/rhysbradbury/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Options.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/rt.jar
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Options.scala -> /Users/rhysbradbury/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Sequence.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/rt.jar
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Sequence.scala -> /Users/rhysbradbury/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+6 items
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Futures.scala -> com.ontrackretail.codechallenge.Futures
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Futures.scala -> com.ontrackretail.codechallenge.Futures$
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Options.scala -> com.ontrackretail.codechallenge.Options
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Options.scala -> com.ontrackretail.codechallenge.Options$
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Sequence.scala -> com.ontrackretail.codechallenge.Sequence
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Sequence.scala -> com.ontrackretail.codechallenge.Sequence$
+used names:
+134 items
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Futures.scala -> <init>
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Futures.scala -> <repeated>
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Futures.scala -> ???
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Futures.scala -> A
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Futures.scala -> Any
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Futures.scala -> AnyRef
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Futures.scala -> CanBuildFrom
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Futures.scala -> Coll
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Futures.scala -> ExecutionContext
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Futures.scala -> Function1
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Futures.scala -> Future
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Futures.scala -> Futures
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Futures.scala -> M
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Futures.scala -> Nothing
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Futures.scala -> Object
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Futures.scala -> Predef
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Futures.scala -> S
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Futures.scala -> Seq
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Futures.scala -> TraversableOnce
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Futures.scala -> Unit
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Futures.scala -> X
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Futures.scala -> apply
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Futures.scala -> canBuildFrom
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Futures.scala -> codechallenge
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Futures.scala -> collection
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Futures.scala -> com
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Futures.scala -> concurrent
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Futures.scala -> ec
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Futures.scala -> f1
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Futures.scala -> f2
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Futures.scala -> f3
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Futures.scala -> f4
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Futures.scala -> f4dependency
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Futures.scala -> flatMap
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Futures.scala -> map
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Futures.scala -> ontrackretail
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Futures.scala -> package
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Futures.scala -> scala
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Futures.scala -> sequence
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Options.scala -> <byname>
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Options.scala -> <init>
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Options.scala -> A
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Options.scala -> Any
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Options.scala -> AnyRef
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Options.scala -> B
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Options.scala -> Boolean
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Options.scala -> Either
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Options.scala -> Function1
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Options.scala -> MatchError
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Options.scala -> NoSuchElementException
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Options.scala -> None
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Options.scala -> Nothing
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Options.scala -> Object
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Options.scala -> Option
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Options.scala -> Options
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Options.scala -> Predef
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Options.scala -> Some
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Options.scala -> String
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Options.scala -> T
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Options.scala -> T1
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Options.scala -> T2
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Options.scala -> Tuple2
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Options.scala -> X
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Options.scala -> _2
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Options.scala -> _root_
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Options.scala -> apply
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Options.scala -> codechallenge
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Options.scala -> com
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Options.scala -> fn
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Options.scala -> get
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Options.scala -> isDefined
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Options.scala -> java
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Options.scala -> map
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Options.scala -> myStringOption
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Options.scala -> ne
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Options.scala -> ontrackretail
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Options.scala -> package
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Options.scala -> result
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Options.scala -> scala
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Options.scala -> str
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Options.scala -> toLeft
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Options.scala -> unchecked
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Options.scala -> util
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Sequence.scala -> +
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Sequence.scala -> <init>
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Sequence.scala -> ==
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Sequence.scala -> Any
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Sequence.scala -> AnyRef
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Sequence.scala -> Array
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Sequence.scala -> ArrayOps
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Sequence.scala -> B
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Sequence.scala -> Boolean
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Sequence.scala -> CanBuildFrom
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Sequence.scala -> Char
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Sequence.scala -> ClassTag
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Sequence.scala -> Function1
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Sequence.scala -> Int
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Sequence.scala -> Integer
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Sequence.scala -> Integer2int
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Sequence.scala -> Nil
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Sequence.scala -> Nothing
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Sequence.scala -> Object
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Sequence.scala -> Predef
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Sequence.scala -> Seq
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Sequence.scala -> Sequence
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Sequence.scala -> String
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Sequence.scala -> T
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Sequence.scala -> That
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Sequence.scala -> _$4
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Sequence.scala -> canBuildFrom
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Sequence.scala -> charArrayOps
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Sequence.scala -> codechallenge
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Sequence.scala -> collection
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Sequence.scala -> com
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Sequence.scala -> immutable
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Sequence.scala -> intArrayOps
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Sequence.scala -> java
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Sequence.scala -> lang
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Sequence.scala -> map
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Sequence.scala -> materializeClassTag
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Sequence.scala -> mkString
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Sequence.scala -> ofChar
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Sequence.scala -> ofInt
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Sequence.scala -> ontrackretail
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Sequence.scala -> package
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Sequence.scala -> reflect
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Sequence.scala -> scala
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Sequence.scala -> seq
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Sequence.scala -> toCharArray
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Sequence.scala -> toInt
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Sequence.scala -> toSeq
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Sequence.scala -> toString
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Sequence.scala -> valueOf
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Sequence.scala -> x
+product stamps:
+6 items
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/target/scala-2.12/classes/com/ontrackretail/codechallenge/Futures$.class -> lastModified(1487943471000)
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/target/scala-2.12/classes/com/ontrackretail/codechallenge/Futures.class -> lastModified(1487943471000)
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/target/scala-2.12/classes/com/ontrackretail/codechallenge/Options$.class -> lastModified(1487943471000)
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/target/scala-2.12/classes/com/ontrackretail/codechallenge/Options.class -> lastModified(1487943471000)
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/target/scala-2.12/classes/com/ontrackretail/codechallenge/Sequence$.class -> lastModified(1487943471000)
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/target/scala-2.12/classes/com/ontrackretail/codechallenge/Sequence.class -> lastModified(1487943471000)
+source stamps:
+3 items
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Futures.scala -> hash(0eae09d7769594e6af0af5b5ed6928f3c226e3c4)
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Options.scala -> hash(461570acb9d4c018b9550a66e677cdcfbfc82de0)
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Sequence.scala -> hash(8ca1e09a176c1eb6dbe3e7c017744a347c421464)
+binary stamps:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1466622116000)
+/Users/rhysbradbury/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar -> lastModified(1480936165000)
+class names:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/rhysbradbury/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar -> scala.collection.TraversableLike
+internal apis:
+3 items
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Futures.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwNOWf3QAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAbc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwcUvhRHQAB0Z1dHVyZXNzcQB+AAwKDyVndAAGbm90aWZ5c3EAfgAM/okqC3QADnRyZWVEZXBlbmRlbmN5c3EAfgAMxBfnz3QABHdhaXRzcQB+AAzJ7GCedAANJGFzSW5zdGFuY2VPZnNxAH4ADLMcawJ0AAZlcXVhbHNzcQB+AAzLnDAMdAACZjFzcQB+AAwEnqHPdAAMYXNJbnN0YW5jZU9mc3EAfgAM53kzpnQADHN5bmNocm9uaXplZHNxAH4ADJhvzgV0AA0kaXNJbnN0YW5jZU9mc3EAfgAMItnNLXQACW5vdGlmeUFsbHNxAH4ADHs+lHF0ABBsaW5lYXJEZXBlbmRlbmN5c3EAfgAM7yaV/3QADGlzSW5zdGFuY2VPZnNxAH4ADNF3UuJ0AAJmM3NxAH4ADJoipLp0AAI9PXNxAH4ADIL5C/90AAVjbG9uZXNxAH4ADH0bU9d0AAJmNHNxAH4ADEThXwJ0AAh0b1N0cmluZ3NxAH4ADElLT0h0AAIhPXNxAH4ADApLpxt0AAhnZXRDbGFzc3NxAH4ADNnxq5d0AAJuZXNxAH4ADJHkumx0AAxub0RlcGVuZGVuY3lzcQB+AAxnV/5KdAACZXFzcQB+AAzd/3M9dAACIyNzcQB+AAzJg2wvdAAIZmluYWxpemVzcQB+AAwVyZjDdAAIaGFzaENvZGVzcQB+AAxwwF7EdAACZjJzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBNeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAnY29tLm9udHJhY2tyZXRhaWwuY29kZWNoYWxsZW5nZS5GdXR1cmVzdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBlc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AE1MAAlpbmhlcml0ZWRxAH4ATUwAB3BhcmVudHNxAH4ATXhxAH4AanNxAH4AZXVxAH4ASAAAAABzcQB+AGV1cQB+AEgAAAAAc3EAfgBldXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBpdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBpc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCCdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCDc3EAfgB2dAADQW55c3EAfgB6c3EAfgB9dXEAfgCAAAAAAnNxAH4AgnQABXNjYWxhcQB+AIl1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAA3NyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0ABFjb20ub250cmFja3JldGFpbHNxAH4Ak3QAH2NvbS5vbnRyYWNrcmV0YWlsLmNvZGVjaGFsbGVuZ2VzcQB+AJN0AANjb21zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVpwV40rdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAVS9Vc2Vycy9yaHlzYnJhZGJ1cnkvcHJvamVjdHMvb24tdHJhY2stcmV0YWlsLWNvZGUtY2hhbGxlbmdlL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQOrgnXdpWU5q8K9bXtaSjzwibjxA==
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Options.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwXEdcNgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAZc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hww0rwL3QABm5vdGlmeXNxAH4ADDBH3hR0AAR3YWl0c3EAfgAMaRaMMHQADSRhc0luc3RhbmNlT2ZzcQB+AAwViKDVdAAHc2FmZWx5MnNxAH4ADNvsnCZ0AAZlcXVhbHNzcQB+AAzfYwGGdAAMYXNJbnN0YW5jZU9mc3EAfgAMQlg8JHQADHN5bmNocm9uaXplZHNxAH4ADLrLi0N0AA0kaXNJbnN0YW5jZU9mc3EAfgAMFAfzUXQAB3NhZmVseTFzcQB+AAy/OJjvdAAJbm90aWZ5QWxsc3EAfgAM+A0TLHQADGlzSW5zdGFuY2VPZnNxAH4ADL1rgnl0AAdzYWZlbHkzc3EAfgAMZzqcl3QAAj09c3EAfgAM378ZgnQABWNsb25lc3EAfgAMU/07WnQAB09wdGlvbnNzcQB+AAxCE9c3dAAIdG9TdHJpbmdzcQB+AAwUCBCCdAAObXlTdHJpbmdPcHRpb25zcQB+AAzHLofTdAACIT1zcQB+AAx+u5HXdAAIZ2V0Q2xhc3NzcQB+AAxCphyedAACbmVzcQB+AAzl5Q10dAAHc2FmZWx5NHNxAH4ADBJcHrN0AAJlcXNxAH4ADCPBnA50AAIjI3NxAH4ADOKPH310AAhmaW5hbGl6ZXNxAH4ADFBXgaZ0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ACdjb20ub250cmFja3JldGFpbC5jb2RlY2hhbGxlbmdlLk9wdGlvbnN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ASUwACWluaGVyaXRlZHEAfgBJTAAHcGFyZW50c3EAfgBJeHEAfgBmc3EAfgBhdXEAfgBEAAAAAHNxAH4AYXVxAH4ARAAAAABzcQB+AGF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGV0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGVzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AH50AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AH9zcQB+AHJ0AANBbnlzcQB+AHZzcQB+AHl1cQB+AHwAAAACc3EAfgB+dAAFc2NhbGFxAH4AhXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAADc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAEWNvbS5vbnRyYWNrcmV0YWlsc3EAfgCPdAAfY29tLm9udHJhY2tyZXRhaWwuY29kZWNoYWxsZW5nZXNxAH4Aj3QAA2NvbXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWnBXjSt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABVL1VzZXJzL3JoeXNicmFkYnVyeS9wcm9qZWN0cy9vbi10cmFjay1yZXRhaWwtY29kZS1jaGFsbGVuZ2UvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFEYVcKy51MAYuVUKZuZ3zc+/yC3g
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Sequence.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwb59OoAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwuLTYlnQABm5vdGlmeXNxAH4ADEZRc4l0AAR3YWl0c3EAfgAMulvm2HQADSRhc0luc3RhbmNlT2ZzcQB+AAxDjdJNdAAGZXF1YWxzc3EAfgAMIpVeoHQADGFzSW5zdGFuY2VPZnNxAH4ADL3snpd0AAxzeW5jaHJvbml6ZWRzcQB+AAylrgr3dAANJGlzSW5zdGFuY2VPZnNxAH4ADIjeDbF0AAhTZXF1ZW5jZXNxAH4ADCuLpFN0AAlub3RpZnlBbGxzcQB+AAzSK6VEdAAMaXNJbnN0YW5jZU9mc3EAfgAMFXoCb3QAAj09c3EAfgAM4xkahHQABWNsb25lc3EAfgAMAcw+iXQACHRvU3RyaW5nc3EAfgAMTOoECHQAAiE9c3EAfgAMvB+XrHQACGdldENsYXNzc3EAfgAMSIbA2HQAAm5lc3EAfgAMGUkcsXQACWluY3JlbWVudHNxAH4ADFVl/IV0AAJlcXNxAH4ADHfo2Ip0AAIjI3NxAH4ADKE+OU10AAhmaW5hbGl6ZXNxAH4ADE4arCd0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0AChjb20ub250cmFja3JldGFpbC5jb2RlY2hhbGxlbmdlLlNlcXVlbmNldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBZc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AXnNxAH4AWXVxAH4APAAAAABzcQB+AFl1cQB+ADwAAAAAc3EAfgBZdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBddAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBdc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB2dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB3c3EAfgBqdAADQW55c3EAfgBuc3EAfgBxdXEAfgB0AAAAAnNxAH4AdnQABXNjYWxhcQB+AH11cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAA3NyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0ABFjb20ub250cmFja3JldGFpbHNxAH4Ah3QAH2NvbS5vbnRyYWNrcmV0YWlsLmNvZGVjaGFsbGVuZ2VzcQB+AId0AANjb21zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVpwV40rdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAVS9Vc2Vycy9yaHlzYnJhZGJ1cnkvcHJvamVjdHMvb24tdHJhY2stcmV0YWlsLWNvZGUtY2hhbGxlbmdlL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSMoeCaF2wettvj58AXdEo0fEIUZA==
+external apis:
+0 items
+source infos:
+3 items
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Futures.scala -> 
+AAAAAAAAAAA=
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Options.scala -> 
+AAAAAAAAAAA=
+/Users/rhysbradbury/projects/on-track-retail-code-challenge/src/main/scala/com/ontrackretail/codechallenge/Sequence.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWnBXjSt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVS9Vc2Vycy9yaHlzYnJhZGJ1cnkvcHJvamVjdHMvb24tdHJhY2stcmV0YWlsLWNvZGUtY2hhbGxlbmdlL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv

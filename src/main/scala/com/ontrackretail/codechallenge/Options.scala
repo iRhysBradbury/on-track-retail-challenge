@@ -32,7 +32,7 @@ object Options {
   def safely2[T](fn: (String => T)): Option[T] = {
     for {
       str <- myStringOption
-      result <- fn(str)
+      result = fn(str)
     } yield result
   }
 
@@ -48,7 +48,7 @@ object Options {
     * @return the result as an Either monad, being `T` or an `NoSuchElementException`
     */
   def safely3[T](fn: (String => T)): Either[T, NoSuchElementException] = {
-    myStringOption.map(fn).toLeft(NoSuchElementException)
+    myStringOption.map(fn).toLeft(new NoSuchElementException)
   }
 
   /**
